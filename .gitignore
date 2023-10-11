@@ -115,5 +115,5 @@ opencover.xml
 testresults.xml
 
 # App settings
-appsettings.*.json
+appsettings.Development.json
 appsettings.json
